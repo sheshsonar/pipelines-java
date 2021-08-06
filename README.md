@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ssonar/Azure_pipeline/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/ssonar/Azure_pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
